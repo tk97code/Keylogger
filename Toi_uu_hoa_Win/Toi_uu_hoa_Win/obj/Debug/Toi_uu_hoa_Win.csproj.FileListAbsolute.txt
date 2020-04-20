@@ -1,0 +1,6 @@
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\bin\Debug\Toi_uu_hoa_Win.exe.config
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\bin\Debug\Toi_uu_hoa_Win.exe
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\bin\Debug\Toi_uu_hoa_Win.pdb
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\obj\Debug\Toi_uu_hoa_Win.exe
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\obj\Debug\Toi_uu_hoa_Win.pdb
+D:\Keylogger\Toi_uu_hoa_Win\Toi_uu_hoa_Win\obj\Debug\Toi_uu_hoa_Win.csprojResolveAssemblyReference.cache
